@@ -1,2 +1,3 @@
 #!/bin/sh
-./mvnw package
+#./mvnw package
+ls -alh
